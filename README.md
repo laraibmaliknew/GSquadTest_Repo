@@ -1,0 +1,11 @@
+# Mobile coding challenge
+
+## Points
+
+Used native libraries for performing network  requests
+Added Route  (url end points)
+APi Client for executing network requests
+
+
+Pagination Added
+Can set 'perPageCount' in "Constants.swift" file
