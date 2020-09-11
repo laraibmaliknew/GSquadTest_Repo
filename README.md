@@ -1,4 +1,3 @@
-# Mobile coding challenge
 
 ## Points
 
@@ -9,3 +8,8 @@ APi Client for executing network requests
 
 Pagination Added
 Can set 'perPageCount' in "Constants.swift" file
+
+
+
+Please contact me in case any error occurrs.
+
