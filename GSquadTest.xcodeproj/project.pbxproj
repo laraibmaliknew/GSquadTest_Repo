@@ -151,6 +151,7 @@
 		18C45219250A9E6100762EE3 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				18CC8173250BF3E90071322C /* Response */,
 				18C45222250AA22D00762EE3 /* Request */,
 			);
 			path = Model;
@@ -177,7 +178,6 @@
 			isa = PBXGroup;
 			children = (
 				18C45223250AA23600762EE3 /* PropertyListRequestModel.swift */,
-				18C45225250AA38300762EE3 /* PropertyListResponseModel.swift */,
 			);
 			path = Request;
 			sourceTree = "<group>";
@@ -196,6 +196,14 @@
 				18C4522B250B356300762EE3 /* UIView+Extension.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		18CC8173250BF3E90071322C /* Response */ = {
+			isa = PBXGroup;
+			children = (
+				18C45225250AA38300762EE3 /* PropertyListResponseModel.swift */,
+			);
+			path = Response;
 			sourceTree = "<group>";
 		};
 		FF95C4035B8A5A6E14B1F10F /* Pods */ = {
